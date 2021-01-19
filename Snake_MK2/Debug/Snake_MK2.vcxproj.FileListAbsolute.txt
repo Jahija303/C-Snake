@@ -1,0 +1,3 @@
+F:\Github Projects\Cpp-Snake\Debug\Snake_MK2.pdb
+F:\Github Projects\Cpp-Snake\Snake_MK2\Debug\Snake_MK2.exe
+F:\Github Projects\Cpp-Snake\Snake_MK2\Debug\Snake_MK2.pdb
